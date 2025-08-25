@@ -1,0 +1,14 @@
+dc_motor\stream_buffer.o: ..\Development\Mid\FreeRTOS\source\stream_buffer.c
+dc_motor\stream_buffer.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stdint.h
+dc_motor\stream_buffer.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\string.h
+dc_motor\stream_buffer.o: ../Development/Mid/FreeRTOS/include/FreeRTOS.h
+dc_motor\stream_buffer.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stddef.h
+dc_motor\stream_buffer.o: ../Development/Mid/FreeRTOS/FreeRTOSConfig.h
+dc_motor\stream_buffer.o: ../Development/Mid/FreeRTOS/include/projdefs.h
+dc_motor\stream_buffer.o: ../Development/Mid/FreeRTOS/include/portable.h
+dc_motor\stream_buffer.o: ../Development/Mid/FreeRTOS/include/deprecated_definitions.h
+dc_motor\stream_buffer.o: ../Development/Mid/FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+dc_motor\stream_buffer.o: ../Development/Mid/FreeRTOS/include/mpu_wrappers.h
+dc_motor\stream_buffer.o: ../Development/Mid/FreeRTOS/include/task.h
+dc_motor\stream_buffer.o: ../Development/Mid/FreeRTOS/include/list.h
+dc_motor\stream_buffer.o: ../Development/Mid/FreeRTOS/include/stream_buffer.h
